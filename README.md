@@ -54,6 +54,7 @@ GOOGLE_SECRET= "google secret"
 NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME= " cloudinary cloud name"
 
 Usage
+https://yourhotel.vercel.app/
 
 # Run the development server
 npm run dev
